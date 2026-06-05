@@ -1,0 +1,15 @@
+AG: 0100 | C/C: 20000002 | NOME: MARIA OLIVEIRA                 |  SALDO:                 2.00        
+AG: 0100 | C/C: 10000001 | NOME: JOAO DA SILVA                  |  SALDO:                 1.00  
+AG: 0100 | C/C: 60000006 | NOME: LUCAS MENDES                   |  SALDO:                 6.00
+SUBTOTAL SALDO AGENCIA:                 9.00                      
+------------------------------------------------------------------------------------------------------
+AG: 0200 | C/C: 40000004 | NOME: ANA SOUZA                      |  SALDO:                 4.00  
+AG: 0200 | C/C: 80000008 | NOME: FERNANDO COSTA                 |  SALDO:                 8.00   
+AG: 0200 | C/C: 30000003 | NOME: CARLOS EDUARDO                 |  SALDO:                 3.00 
+SUBTOTAL SALDO AGENCIA:                15.00                      
+------------------------------------------------------------------------------------------------------
+AG: 0350 | C/C: 70000007 | NOME: JULIA BASTOS                   |  SALDO:                 7.00 
+AG: 0350 | C/C: 50000005 | NOME: PEDRO ALVES                    |  SALDO:                 5.00 
+SUBTOTAL SALDO AGENCIA:                12.00                      
+------------------------------------------------------------------------------------------------------
+SALDO TOTAL:                                36.00                 
