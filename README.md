@@ -32,7 +32,7 @@ Abaixo, registros que comprovam o funcionamento correto do processamento Batch e
 ### 1. Arquivo de Entrada
 ![Relatório de Contas](assets/in.png)
 
-### 1. Arquivo de Saída
+### 2. Arquivo de Saída
 ![Relatório de Contas](assets/out.png)
 
 ### 3. Execução 
