@@ -36,4 +36,4 @@ Abaixo, registros que comprovam o funcionamento correto do processamento Batch e
 ![Relatório de Contas](assets/out.png)
 
 ### 3. Execução 
-![Log de Sucesso](assets/execução.png)
+![Log de Sucesso](assets/execução.gif)
